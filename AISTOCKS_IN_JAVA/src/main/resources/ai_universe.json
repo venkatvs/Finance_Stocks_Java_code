@@ -1,0 +1,136 @@
+{
+  "categories": {
+    "ai_compute_core_semis": [
+      "NVDA",
+      "AMD",
+      "AVGO",
+      "QCOM",
+      "INTC",
+      "ARM",
+      "MU",
+      "MRVL",
+      "TXN",
+      "ADI",
+      "NXPI",
+      "MCHP",
+      "ON",
+      "STM",
+      "GFS",
+      "LSCC",
+      "TER",
+      "MPWR"
+    ],
+    "semicap_eda_manufacturing": [
+      "TSM",
+      "ASML",
+      "AMAT",
+      "LRCX",
+      "KLAC",
+      "TEL",
+      "ENTG",
+      "MKSI",
+      "ACMR",
+      "ONTO",
+      "CDNS",
+      "SNPS"
+    ],
+    "networking_optics_dc_hw": [
+      "ANET",
+      "CSCO",
+      "JNPR",
+      "CIEN",
+      "LITE",
+      "COHR",
+      "DELL",
+      "HPE",
+      "SMCI",
+      "APH"
+    ],
+    "datacenter_power_cooling_reits": [
+      "VRT",
+      "ETN",
+      "PWR",
+      "TT",
+      "JCI",
+      "CARR",
+      "EQIX",
+      "DLR"
+    ],
+    "cloud_platforms_model_owners": [
+      "MSFT",
+      "AMZN",
+      "GOOGL",
+      "META",
+      "ORCL",
+      "IBM",
+      "AAPL",
+      "TSLA"
+    ],
+    "data_platforms_enterprise_sw": [
+      "PLTR",
+      "SNOW",
+      "MDB",
+      "DDOG",
+      "NOW",
+      "CRM",
+      "ADBE",
+      "INTU",
+      "SHOP",
+      "TEAM",
+      "U",
+      "PATH",
+      "TWLO",
+      "OKTA",
+      "NET",
+      "DT",
+      "INFA",
+      "AKAM"
+    ],
+    "cybersecurity": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "S",
+      "CYBR",
+      "TENB",
+      "CHKP"
+    ],
+    "robotics_industrial_ai": [
+      "ISRG",
+      "ABB",
+      "ROK",
+      "HON",
+      "SYM",
+      "CGNX"
+    ],
+    "autonomy_defense_ai": [
+      "MBLY",
+      "AVAV",
+      "KTOS",
+      "LMT",
+      "NOC",
+      "RTX"
+    ],
+    "ai_apps_ads_misc": [
+      "APP",
+      "TTD",
+      "UBER",
+      "DUOL",
+      "AI",
+      "SOUN"
+    ]
+  },
+  "categoryDescriptions": {
+    "ai_compute_core_semis": "AI Compute & Core Semiconductors (GPUs/CPUs/ASICs)",
+    "semicap_eda_manufacturing": "Semiconductor Manufacturing, Equipment & EDA",
+    "networking_optics_dc_hw": "Networking, Optics & Data-Center Hardware",
+    "datacenter_power_cooling_reits": "Power, Cooling & Data Center Infrastructure",
+    "cloud_platforms_model_owners": "Cloud/Hyperscalers & AI Platforms",
+    "data_platforms_enterprise_sw": "Data Platforms & Enterprise Software",
+    "cybersecurity": "Cybersecurity & Identity",
+    "robotics_industrial_ai": "Robotics, Automation & Industrial AI",
+    "autonomy_defense_ai": "Autonomy, Drones & Defense AI",
+    "ai_apps_ads_misc": "AI-as-a-Product, Ads & Other Adopters"
+  }
+}
